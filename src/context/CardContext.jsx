@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { createContext } from 'react';
 // création du context
 export const CardContext = createContext();

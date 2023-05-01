@@ -23,8 +23,8 @@ export default function House() {
   return (
     <section className='section py-12 overflow-hidden'>
       <div className='mb-4 flex items-center space-x-2'>
-      <div className='h-1 w-12 bg-green-300'></div>
-        <h2 className='title first-letter:uppercase'> à la une</h2>
+        <div className='h-1 w-12 bg-green-300'></div>
+          <h2 className='title first-letter:uppercase'> à la une</h2>
         <div className='h-1 w-12 bg-green-300'></div>
       </div>
       <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-7 max-w-sm md:max-w-none mx-auto md:mx-0'>
